@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Front-end web developer with 5+ years experience in  building scalable front-end infrastructure software, maintaining web applications and responsive websites using Angular, Typescript, Javascript, HTML, CSS, Bootstrap, Angular Material plus modern libraries
+Front-end web developer with 5+ years experience in  building scalable front-end infrastructure software, maintaining web applications and responsive websites using Angular, Typescript, Javascript, HTML, CSS, Bootstrap, Angular Material plus modern libraries
 and frameworks
 
 
