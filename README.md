@@ -8,6 +8,10 @@ and frameworks
 #### :hammer_and_wrench: Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/Html-05122A.svg?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/Css-05122A.svg?style=flat&logo=html5)
+
+![Angular](https://img.shields.io/badge/Angular-05122A.svg?style=flat&logo=html5)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A.svg?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A.svg?style=flat&logo=github)
