@@ -7,14 +7,13 @@ and frameworks
 
 #### :hammer_and_wrench: Stack & Tools
 
-![HTML5](https://img.shields.io/badge/Html-05122A.svg?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/Css-05122A.svg?style=flat&logo=css2)
+![HTML5](https://img.shields.io/badge/HTML5-05122A.svg?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-05122A.svg?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A.svg?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/Angular-05122A.svg?style=flat&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A.svg?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A.svg?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/Markdown-05122A.svg?style=flat&logo=markdown)
-![Trello](https://img.shields.io/badge/Trello-05122A.svg?style=flat&logo=trello)
 ![Jira](https://img.shields.io/badge/Jira-05122A.svg?style=flat&logo=jira)
 
 
