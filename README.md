@@ -17,6 +17,16 @@ and frameworks
 ![Jira](https://img.shields.io/badge/Jira-05122A.svg?style=flat&logo=jira)
 
 
+#### 📫 How to reach me
+
+[![Website](https://img.shields.io/badge/nikhilraj-E96479.svg?&style=flat-square&logo=symfony&logoColor=white)](https://nikhilrajnair.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilrajnair)
+[![Twitter](https://img.shields.io/badge/Twitter-1C9CEA.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikhil_raj_a)
+[![Codepen](https://img.shields.io/badge/Codepen.io-1C9CEA.svg?&style=flat-square&logo=twitter&logoColor=white)](https://codepen.io/nikhilrajanair)
+
+
+
+
 <!--
 **nikhilrajnair/nikhilrajnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
