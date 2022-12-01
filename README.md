@@ -24,6 +24,7 @@ and frameworks
 [![Twitter](https://img.shields.io/badge/Twitter-1C9CEA.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikhilraj_a)
 [![Codepen](https://img.shields.io/badge/Codepen.io-1C9CEA.svg?&style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/nikhilrajnair)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhilrajnair&theme=onedark)](https://git.io/streak-stats)
 
 
 
