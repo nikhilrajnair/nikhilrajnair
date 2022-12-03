@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-Front-end web developer with 5+ years experience in  building scalable front-end infrastructure software, maintaining web applications and responsive websites using Angular, Typescript, Javascript, HTML, CSS, Bootstrap, Angular Material plus modern libraries
-and frameworks
+Front-end web developer with 5+ years experience in  building scalable front-end infrastructure software, maintaining web applications and responsive websites using Angular, Typescript, Javascript, HTML, CSS, Bootstrap, Angular Material plus modern libraries and frameworks.
 
+#### 🎯 Goal
 
+With a strong technical skill-set, attention to detail, and 6.5+ years of experience, I want to work as a frontend web developer where I could create digital solutions, delivering optimized web platforms to achieve maximum performance and elevate user experience to the next level.
 
 #### :hammer_and_wrench: Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-05122A.svg?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A.svg?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A.svg?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A.svg?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-05122A.svg?style=flat&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A.svg?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)
