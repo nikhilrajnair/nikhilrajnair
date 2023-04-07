@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Front-end web developer with 5+ years experience in  building scalable front-end infrastructure software, maintaining web applications and responsive websites using Angular, Typescript, Javascript, HTML, CSS, Bootstrap, Angular Material plus modern libraries and frameworks.
+Front-end web developer with 7+ years experience in  building scalable front-end infrastructure software, maintaining web applications and responsive websites using Angular, Typescript, Javascript, HTML, CSS, Bootstrap, Angular Material plus modern libraries and frameworks.
 
 #### 🎯 Goal
 
-With a strong technical skill-set, attention to detail, and 6.5+ years of experience, I want to work as a frontend web developer where I could create digital solutions, delivering optimized web platforms to achieve maximum performance and elevate user experience to the next level.
+With a strong technical skill-set, attention to detail, and 7+ years of experience, I want to work as a frontend web developer where I could create digital solutions, delivering optimized web platforms to achieve maximum performance and elevate user experience to the next level.
 
 #### :hammer_and_wrench: Stack & Tools
 
