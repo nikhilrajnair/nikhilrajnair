@@ -18,6 +18,42 @@ With a strong technical skill-set, attention to detail, and 7+ years of experien
 ![GitHub](https://img.shields.io/badge/GitHub-05122A.svg?style=flat&logo=github)
 ![Jira](https://img.shields.io/badge/Jira-05122A.svg?style=flat&logo=jira)
 
+<h2 align="center" id="work-experience">🚀 Professional Experience </h2> 
+<br>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 💼 Designation </b></td> 
+      <td><b> 🏢Organization </b></td> 
+      <td><b> ⏰Timeline  </b></td> 
+      </tr>
+  </thead>
+  <tbody>   
+   <tr>
+      <td> <b>Frontend Engineer</b> </td>
+      <td><a href="https://www.linkedin.com/company/goclark/mycompany/"/><b>Clark</b></a></td>
+      <td> <b>Aug 2022</b> </td>
+   </tr>    
+   <tr>
+      <td> <b>Module Lead</b> </td>
+      <td><a href="https://www.linkedin.com/company/mindtreeltd/"/><b>Mindtree</b></a></td>
+      <td> <b>Aug 2021 - Aug 2022</b> </td>
+   </tr>    
+   <tr>
+      <td> <b>Frontend Developer</b> </td>
+      <td><a href="https://www.linkedin.com/company/wellthytherapeutics/"/><b>Wellthy Therapeutics</b></a></td>
+      <td> <b>March 2018 - July 2021</b> </td>
+   </tr>    
+   <tr>
+      <td> <b>UI Developer </b> </td>
+      <td><a href="https://www.linkedin.com/company/codegreen-technologies-llp/"/><b>Codegreen Technologies</b></a></td>
+      <td> <b>January 2016 - March 2018</b> </td>
+   </tr>    
+   
+
+   </tbody>	 
+</table>
 
 #### 📫 How to reach me
 
