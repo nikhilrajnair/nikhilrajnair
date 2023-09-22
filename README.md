@@ -62,8 +62,9 @@ With a strong technical skill-set, attention to detail, and 7+ years of experien
 [![Twitter](https://img.shields.io/badge/Twitter-1C9CEA.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikhilraj_a)
 [![Codepen](https://img.shields.io/badge/Codepen.io-1C9CEA.svg?&style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/nikhilrajnair)
 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikhilrajnair&theme=github-dark)](https://git.io/streak-stats)
-
+-->
 
 <!--
 **nikhilrajnair/nikhilrajnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
