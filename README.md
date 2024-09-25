@@ -33,12 +33,12 @@ With a strong technical skill-set, attention to detail, and 7+ years of experien
    <tr>
       <td> <b>Frontend Engineer</b> </td>
       <td><a href="https://www.linkedin.com/company/goclark/mycompany/"/><b>Clark</b></a></td>
-      <td> <b>Aug 2022</b> </td>
+      <td> <b>September 2022</b> </td>
    </tr>    
    <tr>
       <td> <b>Module Lead</b> </td>
       <td><a href="https://www.linkedin.com/company/mindtreeltd/"/><b>Mindtree</b></a></td>
-      <td> <b>Aug 2021 - Aug 2022</b> </td>
+      <td> <b>August 2021 - August 2022</b> </td>
    </tr>    
    <tr>
       <td> <b>Frontend Developer</b> </td>
