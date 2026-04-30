@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nikhil Raj, a Frontend web developer with 7+ years experience in building scalable front-end infrastructure software, maintaining web applications, and responsive websites using Angular, Typescript, Javascript, HTML, CSS, Bootstrap, Angular Material, plus modern libraries and frameworks.
+I am Nikhil Raj, a Frontend web developer with 9+ years experience in building scalable front-end infrastructure software, maintaining web applications, and responsive websites using Angular, Ember.js, Typescript, Javascript, HTML, CSS, Bootstrap, Angular Material, plus modern libraries and frameworks.
 
 #### 🎯 Goal
 
